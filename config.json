@@ -1,0 +1,8 @@
+{
+  "base_prices": [10, 5, 20],
+  "region_taxes": [1.1, 1.0, 1.25, 0.95],
+  "craft_recipes": {
+    "sword": [5.0, 2.0, 1.0],
+    "staff": [1.0, 4.0, 6.0]
+  }
+}
